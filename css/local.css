@@ -1,13 +1,6 @@
 @charset "UTF-8";
-/* CSS Document */
 
-@import "bibapp.css";
-/*
- * Choose two colors for your institution:
- * 1. A border color: #CC9933 (UW-Madison Gold)
- * 2. A heading color: #990000 (UW-Madison Red)
- * Add your colors below where necessary.
-*/
+@import "main.css";
 
 .container {
  border-left:0px dotted #000;
@@ -16,8 +9,6 @@
 
 #header {
  color: #990000; /* Red */
- /*border-bottom: 3px solid #C90; Gold */
- /*background-image:url('../../images/focusLogo.jpg'); */
  background-repeat:no-repeat;
  margin-top:0px;
  
