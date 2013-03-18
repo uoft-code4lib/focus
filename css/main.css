@@ -1,17 +1,3 @@
-/* -------------------------------------------------------------- 
-  
-   bibapp.css
-   * Style specific to BibApp (http://bibapp.googlecode.com/)
-   
-   See the Readme file in this folder for additional instructions.
-
--------------------------------------------------------------- */
-
-
-/* ============================================= */
-/* ==== BibApp Header / Footer / Navigation ==== */
-/* ============================================= */
-/* Primary container for all content */
 
 body {
   background:white url('../images/layout/header-bg.png') repeat-x;
