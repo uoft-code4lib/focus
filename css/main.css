@@ -26,10 +26,6 @@ body {
 }
 
 .span-16 {
-  margin-top:-1px;
-}
-
-.span-16.profile {
   margin-top: 4px;
 }
 
