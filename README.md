@@ -1,4 +1,4 @@
-# Code4Lib - University of Toronto - Focus On Research
+# Code4Lib - U of T - Focus
 
 This directory contains the HTML templates for Focus. 
 
